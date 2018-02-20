@@ -1,5 +1,4 @@
 # Shopping Cart Project
-=======
 
 This was a timed code challenge to implement a simple shopping from a pdf reference guide. It was built using AngularJS, node, and express. Gulp was implemented to compile. 
 
@@ -18,7 +17,7 @@ This was a timed code challenge to implement a simple shopping from a pdf refere
 * Cart product total is updated dynamically in navbar 
 * Cart preview mimics a modal featureset 
 
-## Given more time and put to production I would:
+## Given more time, I would:
 
 * I would add a separate sibling view for the shopping cart page
 * Implement a modal directive for the the shopping cart "preview" on the product page
